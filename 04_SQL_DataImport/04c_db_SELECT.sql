@@ -15,7 +15,7 @@
 #SELECT cat_name AS "Katzen" FROM boo.cats; -- Alias
 
 /*Filtern durch WHERE*/
-/*
+/**/
 SELECT
     cat_name AS "Katzen",
     age AS "Alter"
@@ -26,7 +26,7 @@ FROM boo.cats
 #WHERE fur_color = "alpinaweiss"
 WHERE age >= 30
 ;
-*/
+
 
 /* Delete - DS löschen | Vorsicht!! */
 /* Bitte NIE mit root-Rechten!!! */
