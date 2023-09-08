@@ -1,6 +1,6 @@
 /* QUERIES Sortierung */
 
--- ASC / DESC
+-- ASC(Aufsteigend) / DESC(Absteigend)
 SELECT
    #ticker AS "SYM",
    #price AS "Kurs in $",
